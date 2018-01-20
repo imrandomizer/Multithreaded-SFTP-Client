@@ -2,7 +2,7 @@
 """
 Created on Sun Jan 14 00:59:41 2018
 
-A really convoluted program to download files from a sftp server using multiple threads
+A really convoluted :P program to download files from a sftp server using multiple threads
 
 @author: nasinha
 """
